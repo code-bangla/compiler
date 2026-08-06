@@ -1,0 +1,15 @@
+[package]
+name = "lang-cli"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+authors.workspace = true
+
+[[bin]]
+name = "বাংলা"
+path = "src/main.rs"
+
+[dependencies]
+clap.workspace = true
+lang-core = { path = "../lang-core" }
+lang-interpret = { path = "../lang-interpret" }

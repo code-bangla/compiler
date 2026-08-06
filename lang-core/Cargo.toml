@@ -1,0 +1,11 @@
+[package]
+name = "lang-core"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+authors.workspace = true
+
+[dependencies]
+thiserror.workspace = true
+unicode-normalization.workspace = true
+unicode-ident.workspace = true
