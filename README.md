@@ -116,7 +116,7 @@
   - [ ] নির্ভরতা ব্যবস্থাপনা।
   - [ ] স্বাক্ষরিত প্যাকেজ ও নিরাপত্তা নীতি।
 
-#### রোডম্যাপ
+### রোডম্যাপ
 
 - [ ] সংস্করণ ০.১
   - [ ] মৌলিক সিনট্যাক্স (চলক, ফাংশন, যদি, ধ্রুবক, ইত্যাদি)।
@@ -144,4 +144,13 @@
 
 কোড, ডকুমেন্টেশন, টেস্ট—যেকোনোভাবে অবদান রাখো।
 
-CONTRIBUTING.md পড়ে gcdl নীতিমালা দেখো।
+CONTRIBUTING.md পড়ে নীতিমালা দেখো।
+
+## Resources
+
+- [Blang](https://github.com/sergev/blang)
+- [TypeScript Go](https://github.com/microsoft/typescript-go)
+- [bnlang](https://bnlang.dev/)
+- [Rust Documentaion](https://doc.rust-lang.org/stable/)
+- [The Rust Reference](https://doc.rust-lang.org/stable/reference/index.html)
+- [Cranelift Docs](https://github.com/bytecodealliance/wasmtime/tree/main/cranelift/docs)
