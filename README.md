@@ -154,3 +154,4 @@ CONTRIBUTING.md পড়ে নীতিমালা দেখো।
 - [Rust Documentaion](https://doc.rust-lang.org/stable/)
 - [The Rust Reference](https://doc.rust-lang.org/stable/reference/index.html)
 - [Cranelift Docs](https://github.com/bytecodealliance/wasmtime/tree/main/cranelift/docs)
+- [ScriptC](https://github.com/vercel-labs/scriptc) - TypeScript to native compiler using LLVM IR.

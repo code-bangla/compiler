@@ -288,3 +288,4 @@ Agents should fetch and read these (and follow directly relevant links within th
 - [Rust Documentaion](https://doc.rust-lang.org/stable/)
 - [The Rust Reference](https://doc.rust-lang.org/stable/reference/index.html)
 - [Cranelift Docs](https://github.com/bytecodealliance/wasmtime/tree/main/cranelift/docs)
+- [ScriptC](https://github.com/vercel-labs/scriptc) - TypeScript to native compiler using LLVM IR
